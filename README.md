@@ -1,4 +1,6 @@
 # Combine-KalmanNet-and-Value-Iteration-Algorithm
+In this scheme, we try to combine three process of design a control system scheme, **system identification-state estimation-optimal control design**. First of all, the system identification process was done using Recurrent Neural Network scheme from the **plant's measured data**. RNN could represent the SS model of a dynamic system, in this reporsitory we try two study case. First study case was ***batch distillation process*** and the second one was ***speed control of DC Motor***. 
+
 ![scheme](https://user-images.githubusercontent.com/46149713/179192901-36828d9a-a975-413c-a186-256122e8a1b7.jpg)
 # Tutorial 
 1. Open file 'main.m' in MATLAB 
